@@ -17,6 +17,7 @@ console.log("asaf")
 console.log("My First Name is");
 */
 //var firstname = 'asaf';
+/*
 var firstname = 'Ahmad';
 console.log('My first Name is');
 
@@ -28,3 +29,15 @@ console.log('My first Name is');
 
 console.log(firstname);
 console.log('My first Name is');
+*/
+var firstname, lastname, myage;
+firstname = "Asaf";
+lastname = "Ahmad";
+myage = 26;
+console.log("My first name is")
+console.log(firstname)
+console.log("<br>My last name is")
+console.log(lastname)
+console.log("<br>i am")
+console.log(myage)
+console.log("year old");
