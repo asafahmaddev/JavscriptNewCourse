@@ -1,6 +1,6 @@
 //datatypes
 //2 types of datatypes 1 primitive data types and 2 non primitive data types
-//primitive data types: string , number , boolean , null , undefind
+//primitive data types: string , number , boolean , null , undefind.
 
 
 var x = "asaf";
@@ -9,6 +9,9 @@ var x = "asaf";
 //var x = true;
 //var x = false;
 //var x = null;
+//var x = undefined;
+//var x  ;//undefined 
+
 
 console.log("<br> <br>");
 console.log(x);
