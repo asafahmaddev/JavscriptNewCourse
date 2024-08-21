@@ -1,4 +1,4 @@
-//arithmetic operator : +,-,*,/,++,-- etc
+//arithmetic operator : +,-,*,/,++,-- incerment and decrement operator etc
 //console.log(8 + 10);
 
 
