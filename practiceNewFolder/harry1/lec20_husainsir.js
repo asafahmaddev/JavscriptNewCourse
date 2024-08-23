@@ -11,6 +11,6 @@ if (a) {
     alert('thanks to like this website.');
 }
 else {
-    alert('It is ok');
+    alert('It is ok.');
 };
 
