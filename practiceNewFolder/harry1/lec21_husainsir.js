@@ -35,6 +35,6 @@ switch (true) {
     case (a == 7): console.log('Saturday')
         break;
 
-    default: console.log('Eenter valid day number')
+    default: console.log('Eenter valid day number.')
 
 };
