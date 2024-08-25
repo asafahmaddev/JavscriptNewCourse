@@ -1,0 +1,28 @@
+//keyboard events
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Events keyboard</title>
+    <link rel="stylesheet" type="text/css" href="style1.css">
+</head>
+
+<body>
+
+    <div id="form">
+        <h1 id="h1">keyboard events</h1>
+        <p>onclickdown</p>
+        <input type="text" onclickdown="document.getElementById('form').style.background=this.value">
+
+        <p>onclickup</p>
+        <input type="text" onclickup="document.getElementById('form').style.background=this.value">
+
+        <p>onclickpress</p>
+        <input type="text" onclickpress="document.getElementById('form').style.background=this.value">
+    </div>
+
+</body>
+
+</html>
