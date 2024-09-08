@@ -1,10 +1,10 @@
 //alert box
 
-var a = 20;
+var a = 5;
 var b = 10;
 if (a > b) {
-    alert('A is greater than B');
+    console.log("a is greater than b.")
 }
 else {
-    alert('B is greater than A')
+    console.log("b is greater than a.")
 };
